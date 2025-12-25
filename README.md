@@ -30,4 +30,4 @@ This software is built upon the original work of **haren724**.
 - License: Open Source.
 
 ---
-Maintained by [[Edoardo Guglielmini (Gugedo)]]
+Maintained by Edoardo Guglielmini (Gugedo)
